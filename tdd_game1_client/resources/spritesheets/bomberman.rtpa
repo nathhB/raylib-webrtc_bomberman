@@ -1,0 +1,81 @@
+#
+# rTexPacker atlas descriptor file (v1.0)
+#
+# Number of packed sprites:     72
+#
+# Atlas info:    a <imagePath> <width> <height> <spriteCount> <isFont> <fontSize>
+# Sprite info:   s <nameId> <originX> <originY> <positionX> <positionY> <sourceSizeWidth> <sourceSizeHeight> <padding> <trimmed> <trimRecX> <trimRecY> <trimRecWidth> <trimRecHeight>
+#
+a bomberman.png 1024 1024 72 0 32
+s dead1-purple 0 0 0 0 32 64 0 0 0 10 30 46
+s dead1-white 0 0 32 0 32 64 0 0 0 10 30 46
+s dead2-black 0 0 64 0 32 64 0 0 0 14 30 44
+s dead2-purple 0 0 96 0 32 64 0 0 0 14 30 44
+s dead2-white 0 0 128 0 32 64 0 0 0 14 30 44
+s dead3-black 0 0 160 0 32 64 0 0 0 14 30 44
+s dead3-purple 0 0 192 0 32 64 0 0 0 14 30 44
+s dead3-white 0 0 224 0 32 64 0 0 0 14 30 44
+s dead4-black 0 0 256 0 32 64 0 0 0 14 30 44
+s dead4-purple 0 0 288 0 32 64 0 0 0 14 30 44
+s dead4-white 0 0 320 0 32 64 0 0 0 14 30 44
+s dead5-black 0 0 352 0 32 64 0 0 0 14 30 44
+s dead5-purple 0 0 384 0 32 64 0 0 0 14 30 44
+s dead5-white 0 0 416 0 32 64 0 0 0 14 30 44
+s dead6-black 0 0 448 0 32 64 0 0 0 18 30 40
+s dead6-purple 0 0 480 0 32 64 0 0 0 18 30 40
+s dead6-white 0 0 512 0 32 64 0 0 0 18 30 40
+s move_down1-black 0 0 544 0 32 64 0 0 0 10 30 52
+s move_down1-purple 0 0 576 0 32 64 0 0 0 10 30 52
+s move_down1-white 0 0 608 0 32 64 0 0 0 10 30 52
+s move_down2-black 0 0 640 0 32 64 0 0 0 10 30 52
+s move_down2-purple 0 0 672 0 32 64 0 0 0 10 30 52
+s move_down2-white 0 0 704 0 32 64 0 0 0 10 30 52
+s move_down3-black 0 0 736 0 32 64 0 0 0 10 30 54
+s move_down3-purple 0 0 768 0 32 64 0 0 0 10 30 54
+s move_down3-white 0 0 800 0 32 64 0 0 0 10 30 54
+s move_left1-black 0 0 832 0 32 64 0 0 0 10 32 52
+s move_left1-purple 0 0 864 0 32 64 0 0 0 10 32 52
+s move_left1-white 0 0 896 0 32 64 0 0 0 10 32 52
+s move_left2-black 0 0 928 0 32 64 0 0 0 14 32 48
+s move_left2-purple 0 0 960 0 32 64 0 0 0 14 32 48
+s move_left2-white 0 0 992 0 32 64 0 0 0 14 32 48
+s move_left3-black 0 0 0 64 32 64 0 0 0 12 32 50
+s move_left3-purple 0 0 32 64 32 64 0 0 0 12 32 50
+s move_left3-white 0 0 64 64 32 64 0 0 0 12 32 50
+s move_right1-black 0 0 96 64 32 64 0 0 0 10 32 52
+s move_right1-purple 0 0 128 64 32 64 0 0 0 10 32 52
+s move_right1-white 0 0 160 64 32 64 0 0 0 10 32 52
+s move_right2-black 0 0 192 64 32 64 0 0 0 12 32 50
+s move_right2-purple 0 0 224 64 32 64 0 0 0 12 32 50
+s move_right2-white 0 0 256 64 32 64 0 0 0 12 32 50
+s move_right3-black 0 0 288 64 32 64 0 0 0 14 32 48
+s move_right3-purple 0 0 320 64 32 64 0 0 0 14 32 48
+s move_right3-white 0 0 352 64 32 64 0 0 0 14 32 48
+s move_up1-black 0 0 384 64 32 64 0 0 0 14 30 50
+s move_up1-purple 0 0 416 64 32 64 0 0 0 14 30 50
+s move_up1-white 0 0 448 64 32 64 0 0 0 14 30 50
+s move_up2-black 0 0 480 64 32 64 0 0 0 14 30 50
+s move_up2-purple 0 0 512 64 32 64 0 0 0 14 30 50
+s move_up2-white 0 0 544 64 32 64 0 0 0 14 30 50
+s move_up3-black 0 0 576 64 32 64 0 0 0 14 30 50
+s move_up3-purple 0 0 608 64 32 64 0 0 0 14 30 50
+s move_up3-white 0 0 640 64 32 64 0 0 0 14 30 50
+s dead1-black 0 0 672 64 32 64 0 0 0 10 30 46
+s move_right1-red 0 0 704 64 32 64 0 0 0 10 32 52
+s move_right2-red 0 0 736 64 32 64 0 0 0 12 32 50
+s move_right3-red 0 0 768 64 32 64 0 0 0 14 32 48
+s move_up1-red 0 0 800 64 32 64 0 0 0 14 30 50
+s move_up2-red 0 0 832 64 32 64 0 0 0 14 30 50
+s move_up3-red 0 0 864 64 32 64 0 0 0 14 30 50
+s dead1-red 0 0 896 64 32 64 0 0 0 10 30 46
+s dead2-red 0 0 928 64 32 64 0 0 0 14 30 44
+s dead3-red 0 0 960 64 32 64 0 0 0 14 30 44
+s dead4-red 0 0 992 64 32 64 0 0 0 14 30 44
+s dead5-red 0 0 0 128 32 64 0 0 0 14 30 44
+s dead6-red 0 0 32 128 32 64 0 0 0 18 30 40
+s move_down1-red 0 0 64 128 32 64 0 0 0 10 30 52
+s move_down2-red 0 0 96 128 32 64 0 0 0 10 30 52
+s move_down3-red 0 0 128 128 32 64 0 0 0 10 30 54
+s move_left1-red 0 0 160 128 32 64 0 0 0 10 32 52
+s move_left2-red 0 0 192 128 32 64 0 0 0 14 32 48
+s move_left3-red 0 0 224 128 32 64 0 0 0 12 32 50

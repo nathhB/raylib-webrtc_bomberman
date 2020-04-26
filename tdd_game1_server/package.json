@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "start": "node build/tdd_game1_server.js"
+  },
+  "dependencies": {
+    "websocket": "^1.0.30",
+    "wrtc": "^0.4.2"
+  }
+}

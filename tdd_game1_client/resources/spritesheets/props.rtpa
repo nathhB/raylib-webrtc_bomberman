@@ -1,0 +1,69 @@
+#
+# rTexPacker atlas descriptor file (v1.0)
+#
+# Number of packed sprites:     60
+#
+# Atlas info:    a <imagePath> <width> <height> <spriteCount> <isFont> <fontSize>
+# Sprite info:   s <nameId> <originX> <originY> <positionX> <positionY> <sourceSizeWidth> <sourceSizeHeight> <padding> <trimmed> <trimRecX> <trimRecY> <trimRecWidth> <trimRecHeight>
+#
+a props.png 1024 1024 60 0 32
+s destructible_wall_destroy3 0 0 0 0 32 32 0 0 0 0 32 28
+s destructible_wall_destroy4 0 0 32 0 32 32 0 0 0 0 32 28
+s destructible_wall_destroy5 0 0 64 0 32 32 0 0 0 2 32 24
+s destructible_wall_destroy6 0 0 96 0 32 32 0 0 0 4 32 22
+s h_repeat1 0 0 128 0 32 32 0 0 0 6 32 20
+s h_repeat2 0 0 160 0 32 32 0 0 0 4 32 24
+s h_repeat3 0 0 192 0 32 32 0 0 0 2 32 28
+s h_repeat4 0 0 224 0 32 32 0 0 0 0 32 32
+s h_repeat5 0 0 256 0 32 32 0 0 0 0 32 32
+s l_end1 0 0 288 0 32 32 0 0 2 6 30 20
+s l_end2 0 0 320 0 32 32 0 0 0 4 32 24
+s l_end3 0 0 352 0 32 32 0 0 0 2 32 28
+s l_end4 0 0 384 0 32 32 0 0 0 0 32 32
+s l_end5 0 0 416 0 32 32 0 0 0 0 32 32
+s r_end1 0 0 448 0 32 32 0 0 0 6 30 20
+s r_end2 0 0 480 0 32 32 0 0 0 4 32 24
+s r_end3 0 0 512 0 32 32 0 0 0 2 32 28
+s r_end4 0 0 544 0 32 32 0 0 0 0 32 32
+s r_end5 0 0 576 0 32 32 0 0 0 0 32 32
+s t_end1 0 0 608 0 32 32 0 0 6 2 20 30
+s t_end2 0 0 640 0 32 32 0 0 4 0 24 32
+s t_end3 0 0 672 0 32 32 0 0 2 0 28 32
+s t_end4 0 0 704 0 32 32 0 0 0 0 32 32
+s t_end5 0 0 736 0 32 32 0 0 0 0 32 32
+s v_repeat1 0 0 768 0 32 32 0 0 6 0 20 32
+s v_repeat2 0 0 800 0 32 32 0 0 4 0 24 32
+s v_repeat3 0 0 832 0 32 32 0 0 2 0 28 32
+s v_repeat4 0 0 864 0 32 32 0 0 0 0 32 32
+s v_repeat5 0 0 896 0 32 32 0 0 0 0 32 32
+s wall 0 0 928 0 32 32 0 0 0 0 32 32
+s center1 0 0 960 0 32 32 0 0 0 0 32 32
+s center2 0 0 992 0 32 32 0 0 0 0 32 32
+s center3 0 0 0 32 32 32 0 0 0 0 32 32
+s center4 0 0 32 32 32 32 0 0 0 0 32 32
+s center5 0 0 64 32 32 32 0 0 0 0 32 32
+s d_end1 0 0 96 32 32 32 0 0 6 0 20 30
+s d_end2 0 0 128 32 32 32 0 0 4 0 24 32
+s d_end3 0 0 160 32 32 32 0 0 2 0 28 32
+s d_end4 0 0 192 32 32 32 0 0 0 0 32 32
+s d_end5 0 0 224 32 32 32 0 0 0 0 32 32
+s destructible_wall 0 0 256 32 32 32 0 0 0 0 32 32
+s destructible_wall_destroy1 0 0 288 32 32 32 0 0 0 0 32 32
+s destructible_wall_destroy2 0 0 320 32 32 32 0 0 0 0 32 32
+s bomb3 0 0 352 32 32 32 0 0 0 0 32 32
+s bomb4 0 0 384 32 32 32 0 0 2 0 28 30
+s bomb1 0 0 416 32 32 32 0 0 4 2 24 28
+s bomb2 0 0 448 32 32 32 0 0 2 0 28 30
+s bomb_transparent 0 0 480 32 32 32 0 0 0 0 32 32
+s bonus_explosion_expander 0 0 512 32 32 32 0 0 0 0 32 32
+s bonus_extra_bomb 0 0 544 32 32 32 0 0 0 0 32 32
+s bonus_kick 0 0 576 32 32 32 0 0 0 0 32 32
+s bonus_max_explosion 0 0 608 32 32 32 0 0 0 0 32 32
+s bonus_wall_passer 0 0 640 32 32 32 0 0 0 0 32 32
+s bonus_accelerator 0 0 672 32 32 32 0 0 0 0 32 32
+s bonus_armor 0 0 704 32 32 32 0 0 0 0 32 32
+s bonus_border1 0 0 736 32 32 32 0 0 0 0 32 32
+s bonus_border2 0 0 768 32 32 32 0 0 0 0 32 32
+s bonus_border3 0 0 800 32 32 32 0 0 0 0 32 32
+s bonus_border4 0 0 832 32 32 32 0 0 0 0 32 32
+s bonus_border5 0 0 864 32 32 32 0 0 0 0 32 32

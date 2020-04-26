@@ -1,0 +1,64 @@
+#
+# rTexPacker atlas descriptor file (v1.0)
+#
+# Number of packed sprites:     55
+#
+# Atlas info:    a <imagePath> <width> <height> <spriteCount> <isFont> <fontSize>
+# Sprite info:   s <nameId> <originX> <originY> <positionX> <positionY> <sourceSizeWidth> <sourceSizeHeight> <padding> <trimmed> <trimRecX> <trimRecY> <trimRecWidth> <trimRecHeight>
+#
+a ui.png 2048 2048 55 0 32
+s scoreboard_bomberman_happy_black2 0 0 630 829 90 125 0 0 0 9 90 116
+s scoreboard_bomberman_happy_purple1 0 0 720 829 90 125 0 0 0 0 90 125
+s scoreboard_bomberman_happy_purple2 0 0 810 829 90 125 0 0 0 9 90 116
+s scoreboard_bomberman_happy_red1 0 0 270 829 90 125 0 0 0 0 90 125
+s scoreboard_bomberman_happy_red2 0 0 360 829 90 125 0 0 0 9 90 116
+s scoreboard_bomberman_happy_white1 0 0 450 829 90 125 0 0 0 0 90 125
+s scoreboard_bomberman_happy_white2 0 0 540 829 90 125 0 0 0 9 90 116
+s scoreboard_bomberman_head_black 0 0 1240 829 60 64 0 0 0 0 60 64
+s scoreboard_bomberman_head_purple 0 0 1300 829 60 64 0 0 0 0 60 64
+s scoreboard_bomberman_head_red 0 0 1180 829 60 64 0 0 0 0 60 64
+s scoreboard_bomberman_head_white 0 0 1120 829 60 65 0 0 0 0 60 65
+s scoreboard_bomberman_sad_black1 0 0 180 700 90 129 0 0 0 5 90 124
+s scoreboard_bomberman_sad_black2 0 0 1170 700 90 129 0 0 0 0 90 129
+s scoreboard_bomberman_sad_purple1 0 0 180 829 90 129 0 0 0 5 90 124
+s scoreboard_bomberman_sad_purple2 0 0 1690 0 90 129 0 0 0 0 90 129
+s scoreboard_bomberman_sad_red1 0 0 1780 0 90 129 0 0 0 5 90 124
+s scoreboard_bomberman_sad_red2 0 0 1870 0 90 129 0 0 0 0 90 129
+s scoreboard_bomberman_sad_white1 0 0 0 700 90 129 0 0 0 5 90 124
+s scoreboard_bomberman_sad_white2 0 0 90 700 90 129 0 0 0 0 90 129
+s cup 0 0 990 829 65 80 0 0 0 0 65 80
+s cup_empty 0 0 1055 829 65 80 0 0 0 0 65 80
+s header 0 0 0 958 800 60 0 0 0 0 800 60
+s header_bomberman_black 0 0 800 958 98 43 0 0 0 0 98 43
+s header_bomberman_dead_black 0 0 898 958 98 43 0 0 0 0 98 43
+s header_bomberman_dead_purple 0 0 996 958 98 43 0 0 0 0 98 43
+s header_bomberman_dead_red 0 0 1094 958 98 43 0 0 0 0 98 43
+s header_bomberman_dead_white 0 0 1192 958 98 43 0 0 0 0 98 43
+s header_bomberman_purple 0 0 1290 958 98 43 0 0 0 0 98 43
+s header_bomberman_red 0 0 1388 958 98 43 0 0 0 0 98 43
+s header_bomberman_white 0 0 1486 958 98 43 0 0 0 0 98 43
+s lobby_background 0 0 0 0 800 700 0 0 0 0 800 700
+s lobby_bomberman_black1 0 0 270 700 90 129 0 0 3 3 84 126
+s lobby_bomberman_black2 0 0 360 700 90 129 0 0 0 8 90 121
+s lobby_bomberman_black3 0 0 450 700 90 129 0 0 0 11 90 118
+s lobby_bomberman_black4 0 0 540 700 90 129 0 0 0 8 90 121
+s lobby_bomberman_black5 0 0 630 700 90 129 0 0 3 0 84 129
+s lobby_bomberman_purple1 0 0 720 700 90 129 0 0 3 3 84 126
+s lobby_bomberman_purple2 0 0 810 700 90 129 0 0 0 8 90 121
+s lobby_bomberman_purple3 0 0 900 700 90 129 0 0 0 11 90 118
+s lobby_bomberman_purple4 0 0 990 700 90 129 0 0 0 8 90 121
+s lobby_bomberman_purple5 0 0 1080 700 90 129 0 0 3 0 84 129
+s lobby_bomberman_red 0 0 1600 0 90 135 0 0 0 0 90 135
+s lobby_bomberman_red1 0 0 1260 700 90 129 0 0 3 3 84 126
+s lobby_bomberman_red2 0 0 1350 700 90 129 0 0 0 8 90 121
+s lobby_bomberman_red3 0 0 1440 700 90 129 0 0 0 11 90 118
+s lobby_bomberman_red4 0 0 1530 700 90 129 0 0 0 8 90 121
+s lobby_bomberman_red5 0 0 1620 700 90 129 0 0 3 0 84 129
+s lobby_bomberman_white1 0 0 1710 700 90 129 0 0 3 3 84 126
+s lobby_bomberman_white2 0 0 1800 700 90 129 0 0 0 8 90 121
+s lobby_bomberman_white3 0 0 1890 700 90 129 0 0 0 11 90 118
+s lobby_bomberman_white4 0 0 0 829 90 129 0 0 0 8 90 121
+s lobby_bomberman_white5 0 0 90 829 90 129 0 0 3 0 84 129
+s score_container 0 0 1584 958 50 38 0 0 0 0 50 38
+s scoreboard_background 0 0 800 0 800 700 0 0 0 0 800 700
+s scoreboard_bomberman_happy_black1 0 0 900 829 90 125 0 0 0 0 90 125
