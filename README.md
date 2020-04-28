@@ -60,18 +60,30 @@ Almost every library has a `tests` folder that contains unit tests.
 
 ## Compiling and running
 
-You will need to install CMake, emscripten and nodejs.
+You will need to install CMake, emscripten and nodejs, i only compiled on Windows and OSX but it should be the same for other UNIX systems.
  
 ### Server
 
 Compile it.
 
+On OSX:
+
 ```
 cd tdd_game1_server
 mkdir build
 cd build
-emconfigure cmake ..
-make # I used mingw32-make on Windows
+emcmake cmake -DRAYLIB_RELEASE_PATH=<path to the folder containing libraylib.bc> ..
+make
+```
+
+On Windows:
+
+```
+cd tdd_game1_server
+mkdir build
+cd build
+emconfigure cmake -DRAYLIB_RELEASE_PATH=<path to the folder containing libraylib.bc> ..
+mingw32-make
 ```
 
 Install node packages.
@@ -88,12 +100,24 @@ The first argument is the number of players (2-4), the second argument is the re
 
 Compile it.
 
+On OSX:
+
 ```
 cd tdd_game1_client
 mkdir build
 cd build
-emconfigure cmake ..
-make # I used mingw32-make on Windows
+emcmake cmake -DRAYLIB_RELEASE_PATH=<path to the folder containing libraylib.bc> ..
+make
+```
+
+On Windows:
+
+```
+cd tdd_game1_client
+mkdir build
+cd build
+emconfigure cmake -DRAYLIB_RELEASE_PATH=<path to the folder containing libraylib.bc> ..
+mingw32-make
 ```
 
 Run it.
