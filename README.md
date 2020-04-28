@@ -3,7 +3,7 @@ Clone of the multipayer Bomberman experience playable in a web browser over WebR
 
 Watch it here: [https://www.youtube.com/watch?v=ccELsHNIhfQ&t=102s](https://www.youtube.com/watch?v=ccELsHNIhfQ&t=102s)
 
-*This a WIP, still have quite a lot of things to do, see the "Roadmap" section at the end.*
+*This is a WIP, still have quite a lot of things to do, see the "Roadmap" section at the end.*
 
 ## Introduction
 
