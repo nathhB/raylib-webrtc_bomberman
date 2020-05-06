@@ -82,7 +82,7 @@ On Windows:
 cd tdd_game1_server
 mkdir build
 cd build
-emconfigure cmake -DRAYLIB_RELEASE_PATH=<path to the folder containing libraylib.bc> ..
+emcmake cmake -DRAYLIB_RELEASE_PATH=<path to the folder containing libraylib.bc> ..
 mingw32-make
 ```
 
@@ -116,7 +116,7 @@ On Windows:
 cd tdd_game1_client
 mkdir build
 cd build
-emconfigure cmake -DRAYLIB_RELEASE_PATH=<path to the folder containing libraylib.bc> ..
+emcmake cmake -DRAYLIB_RELEASE_PATH=<path to the folder containing libraylib.bc> ..
 mingw32-make
 ```
 
